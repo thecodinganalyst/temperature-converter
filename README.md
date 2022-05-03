@@ -1,5 +1,7 @@
 # TemperatureConverter
 
+This is a simple demonstration of a temperature converter component using Angular. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
