@@ -7,8 +7,8 @@ import {TemperatureConverterService} from "./temperature-converter.service";
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  @Input() fahrenheit?: number;
-  @Input() celsius?: number;
+  fahrenheit?: number;
+  celsius?: number;
 
   constructor(
     private temperatureConverter: TemperatureConverterService

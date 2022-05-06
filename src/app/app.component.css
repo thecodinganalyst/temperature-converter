@@ -1,0 +1,17 @@
+.box {
+	padding: 5px;
+	border-width: 2px;
+	border-color: lightgrey;
+	border-style: solid;
+	display: inline-block;
+}
+
+.box input {
+	border-color: lightgrey;
+}
+
+.box-text {
+	text-align: center;
+	font-family: sans-serif;
+	margin-top: 5px;
+}
